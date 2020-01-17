@@ -1,2 +1,4 @@
 # maze-generator
-maze generator using disjoint sets
+Maze generator using disjoint sets.
+
+Course project for Data Structures.
